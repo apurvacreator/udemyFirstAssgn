@@ -1,0 +1,8 @@
+.warn {
+    background-color: red;
+    margin: 20px;
+}
+
+.warn p {
+    color: white;
+}
